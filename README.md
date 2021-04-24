@@ -66,6 +66,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ```ssh
   $ php artisan migrate
 ```
+_Run the Project_
 ```ssh
   $ php artisan serve
 ```
