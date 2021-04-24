@@ -45,13 +45,30 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
 
-## Contributing
+### Installing 🔧
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+```ssh
+  $ git clone https://github.com/romerojoseing/laravel-jetstream.git
+```
 
-## Code of Conduct
+## Use Project 👓
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+```ssh
+  $ composer install
+```
+
+```ssh
+  $ npm install && npm run dev
+```
+```ssh
+  $ php artisan storage:link
+```
+```ssh
+  $ php artisan migrate
+```
+```ssh
+  $ php artisan serve
+```
 
 ## Security Vulnerabilities
 
